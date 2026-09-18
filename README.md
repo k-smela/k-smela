@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I'm a Mathematics & Computer Science graduate interested in quantitative modeling, data analysis, and computational research. My background combines mathematical problem-solving with programming and computational modeling, with research experience in stochastic processes, differential equations, simulation, and mathematical biology.
 
 ### 🎓 Senior Thesis
-**[Modeling Quorum Sensing Dynamics Using Stochastic Differential Equations](link-to-repo)**
+**[Modeling Quorum Sensing Dynamics Using Stochastic Differential Equations](https://github.com/k-smela/quorum-sensing-thesis)**
 A mathematical biology thesis modeling bacterial quorum sensing using stochastic differential equations.
 
 ### 💻 Projects
