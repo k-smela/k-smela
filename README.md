@@ -25,7 +25,7 @@ A mathematical biology thesis modeling bacterial quorum sensing using stochastic
 
 ### 💻 Projects
 - **[Machine Learning Image Classification](https://github.com/k-smela/image-classifier)** — Python/ML project comparing multiple predictive models for image classification.
-- **[SQL-Linked Data Pipeline](https://github.com/k-smela/game-sql-connection)** — Demonstrates connecting a Python application to a SQL database for data storage and querying.
+- **[SQL-Linked Data Pipeline](https://github.com/k-smela/game-sql-connection)** — Demonstrates connecting a Python application to SQL database for data storage and querying.
 - **[Predictive Statistics for Gun Safety Models](https://github.com/k-smela/gun-safety-prediction)** — Statistical modeling project for predictive analysis.
 - **[Gaussian Quadrature](https://github.com/k-smela/gaussian-quadrature)** — LaTeX paper on numerical integration via Gaussian quadrature methods.
 
