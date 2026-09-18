@@ -33,4 +33,4 @@ A mathematical biology thesis modeling bacterial quorum sensing using stochastic
 Python · SQL · LaTeX · R · Mathematica · Java · C
 
 ### 📫 Contact
-katie.smela@gmail.com · [LinkedIn](www.linkedin.com/in/katie-smela-03b06926a)
+katie.smela@gmail.com · [LinkedIn](https://www.linkedin.com/in/katie-smela-03b06926a)
