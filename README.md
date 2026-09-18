@@ -30,7 +30,7 @@ A mathematical biology thesis modeling bacterial quorum sensing using stochastic
 - **[Gaussian Quadrature](link-to-repo)** — LaTeX paper on numerical integration via Gaussian quadrature methods.
 
 ### 🛠️ Tools & Languages
-Python · SQL · LaTeX · (add others: R, MATLAB, etc.)
+Python · SQL · LaTeX · R · Mathematica · Java · C
 
 ### 📫 Contact
-[your email] · [LinkedIn]
+katie.smela@gmail.com · [LinkedIn](www.linkedin.com/in/katie-smela-03b06926a)
