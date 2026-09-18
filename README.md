@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **k-smela/k-smela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
