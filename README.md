@@ -24,7 +24,7 @@ I'm a Mathematics & Computer Science graduate interested in quantitative modelin
 A mathematical biology thesis modeling bacterial quorum sensing using stochastic differential equations.
 
 ### 💻 Projects
-- **[Image Classification with CNNs](link-to-repo)** — Python/ML project using convolutional neural networks for image classification.
+- **[Image Classification with CNNs](https://github.com/k-smela/image-classifier)** — Python/ML project comparing multiple predictive models for image classification.
 - **[SQL-Linked Data Pipeline](link-to-repo)** — Demonstrates connecting a Python application to a SQL database for data storage and querying.
 - **[Predictive Statistics Model](link-to-repo)** — Statistical modeling project for predictive analysis.
 - **[Gaussian Quadrature](link-to-repo)** — LaTeX paper on numerical integration via Gaussian quadrature methods.
